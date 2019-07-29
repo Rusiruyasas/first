@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application12345</string>
+    <string name="textView">Number_1</string>
+    <string name="textView2">Number2</string>
+    <string name="button">OK</string>
+    <string name="button2">+</string>
+    <string name="button3">-</string>
+    <string name="button4">*</string>
+    <string name="button5">/</string>
+</resources>
